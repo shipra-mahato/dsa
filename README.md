@@ -1,2 +1,1 @@
-# java-lab
-Java Interview Preperation
+DSA Preparation
